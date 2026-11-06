@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://mahlol-sa.github.io/landing-preview/</loc>
+<xhtml:link rel="alternate" hreflang="ar" href="https://mahlol-sa.github.io/landing-preview/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://mahlol-sa.github.io/landing-preview/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mahlol-sa.github.io/landing-preview/" />
+<lastmod>2026-11-06T10:45:35.656Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://mahlol-sa.github.io/landing-preview/en/</loc>
+<xhtml:link rel="alternate" hreflang="ar" href="https://mahlol-sa.github.io/landing-preview/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://mahlol-sa.github.io/landing-preview/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mahlol-sa.github.io/landing-preview/" />
+<lastmod>2026-11-06T10:45:35.656Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+</urlset>
